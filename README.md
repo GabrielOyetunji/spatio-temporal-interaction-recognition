@@ -1,3 +1,10 @@
+# 🤸 Spatio-Temporal Interaction Recognition with ST-GCN
+
+[![Open SBU Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GabrielOyetunji/spatio-temporal-interaction-recognition/blob/main/Final__SBU_dataset.ipynb)
+[![Open UTI Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GabrielOyetunji/spatio-temporal-interaction-recognition/blob/main/Final__UTI_dataset.ipynb)
+
+Skeleton-based Human Interaction Understanding using Enhanced ST-GCN Architectures
+...
 📌 Spatio-Temporal Interaction Recognition with ST-GCCN & Hybrid Models
 
 Skeleton-based Human Interaction Understanding using Enhanced ST-GCN Architectures
